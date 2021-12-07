@@ -14,15 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**分割**
-
-<p align="center"><a href="https://github.com/LeeWangWang"><img width="60%" src="./images/mylogo.png" /></a></p>
-
-**分割**
-
-<img src='./images/mylogo.png' alt='img' width='60%;' align = 'center' />
-
-<!-- ![img.png](./images/mylogo.png) -->
+<p align="center"><a href="https://github.com/LeeWangWang"><img width="50%" src="./images/mylogo.png" /></a></p>
 
 ### Hi there 👋
 
