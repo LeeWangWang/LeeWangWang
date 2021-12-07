@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 
 **分割**
 
-<div style="align: center">
-<img src='./images/mylogo.png' alt='img' width='60%;' />
-</div>
+<p align="center"><a href="https://github.com/LeeWangWang"><img width="60%" src="./images/mylogo.png" /></a></p>
 
 **分割**
 
