@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="./images/mylogo.png" alt="img" width="70%;" />
+
 ![img.png](./images/mylogo.png)
 
 ### Hi there 👋
