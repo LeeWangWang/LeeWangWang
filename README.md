@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**分割**
+
+<div style="align: center">
+<img src='./images/mylogo.png' alt='img' width='60%;' />
+</div>
+
+**分割**
+
 <img src='./images/mylogo.png' alt='img' width='60%;' align = 'center' />
 
 <!-- ![img.png](./images/mylogo.png) -->
