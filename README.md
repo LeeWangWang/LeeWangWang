@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeWangWang&show_icons=true&theme=radical)](https://github.com/LeeWangWang/LeeWangWang) |
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeWangWang&show_icons=true&theme=highcontrast)](https://github.com/LeeWangWang/LeeWangWang) | 
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeWangWang&show_icons=true&theme=radical)](https://github.com/LeeWangWang/LeeWangWang) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeWangWang&show_icons=true&theme=highcontrast)](https://github.com/LeeWangWang/LeeWangWang) | 
 | ------------- | ------------- |
 
