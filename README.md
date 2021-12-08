@@ -40,7 +40,7 @@ I am a graduate student from China
   </a>
   &emsp;
   <a href="https://space.bilibili.com/358615147" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="./images/bilibili.png" width="30px"/>
+    <img src="./images/bilibili.jpeg" width="30px"/>
   </a> 
   &emsp;
   <a href= "https://www.instagram.com/liwang1224/" alt="Instagram" title="Instagram">
