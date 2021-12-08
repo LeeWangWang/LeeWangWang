@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><a href="https://github.com/LeeWangWang"><img width="70%" src="./images/mylogo.png" /></a></p>
+<p align="center"><a href="https://github.com/LeeWangWang"><img width="60%" src="./images/mylogo.png" /></a></p>
 
 I am a graduate student from China
 
