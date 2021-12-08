@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 I am a graduate student from China
 
 **about me:**
-- :school: I'm [LeeWangWang](https://github.com/LeeWangWang), pursing Master from <a href="https://www.dlmu.edu.cn/">@DMU  </a>
-- 🔭 I’m currently working on  **DMU software Engineering Institute**
-- 🌱 I’m currently Working with **Anomaly Log Detective**
-- 💬 Ask me about anything, I am happy to help
-- 💡 Occasionaly I do practice in **LeetCode**
+- 🏫 &nbsp; I'm [LeeWangWang](https://github.com/LeeWangWang), pursing Master from <a href="https://www.dlmu.edu.cn/">@DMU  </a>
+- 🔭 &nbsp;  I’m currently working on  **DMU software Engineering Institute**
+- 🌱 &nbsp; I’m currently Working with **Anomaly Log Detective**
+- 💬 &nbsp; Ask me about anything, I am happy to help
+- 💡 &nbsp;Occasionaly I do practice in **LeetCode**
 
-**🌐 Know more about me at:**
+**🌐 &nbsp; Know more about me at :**
 
-<p align="center">
+<p align="left">
   <a href= "" target="_blank" alt="WeChat" title="WeChat">
     <img src="./images/wechat.jpg" width="30px"/>
   </a>
