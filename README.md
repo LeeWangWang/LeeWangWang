@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <p align="center"><a href="https://github.com/LeeWangWang"><img width="50%" src="./images/mylogo.png" /></a></p> -->
+<p align="center"><a href="https://github.com/LeeWangWang"><img width="70%" src="./images/mylogo.png" /></a></p>
 
-<p align="center"><a href="https://github.com/LeeWangWang"><img src="./images/mylogo.png" /></a></p>
-
-### Hi there 👋
+I am a graduate student from China
 
 **about me:**
 - :school: I'm [LeeWangWang](https://github.com/LeeWangWang), pursing Master from <a href="https://www.dlmu.edu.cn/">@DMU  </a>
