@@ -1,7 +1,6 @@
 <!--
 **LeeWangWang/LeeWangWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,20 +13,48 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><a href="https://github.com/LeeWangWang"><img width="50%" src="./images/mylogo.png" /></a></p>
+<p align="center"><a href="https://github.com/LeeWangWang"><img width="60%" src="./images/mylogo.png" /></a></p>
 
-### Hi there 👋
+I am a graduate student from China
 
 **about me:**
 - :school: I'm [LeeWangWang](https://github.com/LeeWangWang), pursing Master from <a href="https://www.dlmu.edu.cn/">@DMU  </a>
-- 🔭 I’m currently working on  **DMU's software**
+- 🔭 I’m currently working on  **DMU software Engineering Institute**
 - 🌱 I’m currently Working with **Anomaly Log Detective**
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - :bulb: Occasionaly I do practice in **LeetCode**
-- 👨 Know more about me at [Sourcerer](https://blog.csdn.net/weixin_42562514) 
-- 🌐 Visit my [porfolio website](https://github.com/LeeWangWang) for complete background and contact.
 
+**🌐 Know more about me at:**
+
+<p align="center">
+  <a href= "" target="_blank" alt="WeChat" title="WeChat">
+    <img src="./images/wechat.jpg" width="30px"/>
+  </a>
+  &emsp;
+  <a href="https://blog.csdn.net/weixin_42562514" target="_blank" alt="CSDN" title="CSDN">
+    <img src="./images/csdn.png" width="30px"/>
+  </a>
+  &emsp;
+  <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" alt="Zhihu" title="Zhihu">
+    <img src="./images/zhihu.png" width="30px"/>
+  </a>
+  &emsp;
+  <a href="https://space.bilibili.com/358615147" target="_blank" alt="Bilibili" title="Bilibili">
+    <img src="./images/bilibili.png" width="30px"/>
+  </a> 
+  &emsp;
+  <a href= "https://www.instagram.com/liwang1224/" alt="Instagram" title="Instagram">
+    <img src="./images/instagram.jpg" width="28px"/>
+  </a>
+  &emsp;
+  <a href="https://www.youtube.com/channel/UCMXXUcTxS4xA8GCnYu8u0dA" target="_blank" alt="YouTube" title="YouTube">
+    <img src="./images/youtube.png" width="30px"/>
+  </a>
+  &emsp;
+  <a href="https://www.linkedin.com/in/%E6%97%BA%E6%97%BA-%E6%9D%8E-044a6b1b1/" alt="LinkedIn" title="LinkedIn">
+    <img src="./images/linkedin.jpg" width="30px"/>
+  </a>
+</p>
 
 **Languages and Tools:**
 
