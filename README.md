@@ -22,7 +22,7 @@ I am a graduate student from China
 - 🔭 I’m currently working on  **DMU software Engineering Institute**
 - 🌱 I’m currently Working with **Anomaly Log Detective**
 - 💬 Ask me about anything, I am happy to help
-- :bulb: Occasionaly I do practice in **LeetCode**
+- 💡 Occasionaly I do practice in **LeetCode**
 
 **🌐 Know more about me at:**
 
@@ -35,7 +35,7 @@ I am a graduate student from China
     <img src="./images/csdn.png" width="30px"/>
   </a>
   &emsp;
-  <a href="https://www.zhihu.com/people/MaiweiE-com" target="_blank" alt="Zhihu" title="Zhihu">
+  <a href="https://www.zhihu.com/people/ai-xue-xi-de-wang-85" target="_blank" alt="Zhihu" title="Zhihu">
     <img src="./images/zhihu.png" width="30px"/>
   </a>
   &emsp;
