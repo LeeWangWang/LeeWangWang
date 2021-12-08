@@ -20,7 +20,7 @@ I am a graduate student from China
 
 **about me:**
 - :school: I'm [LeeWangWang](https://github.com/LeeWangWang), pursing Master from <a href="https://www.dlmu.edu.cn/">@DMU  </a>
-- 🔭 I’m currently working on  **DMU's software**
+- 🔭 I’m currently working on  **DMU software Engineering Institute**
 - 🌱 I’m currently Working with **Anomaly Log Detective**
 - 💬 Ask me about anything, I am happy to help
 - :bulb: Occasionaly I do practice in **LeetCode**
