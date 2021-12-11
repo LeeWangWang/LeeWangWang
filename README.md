@@ -57,7 +57,7 @@ I am a graduate student from China
 </p>
 
 **Languages:**
-<p><img src="./images/c&c++.png" width="40px"> &nbsp;<img src="./images/java.png" width="40px"> &nbsp;<img src="./images/html.png" width="40px"> &nbsp;<img src="./images/javascript.png" width="40px">
+<p><img src="./images/c&c++.png" width="40px"> &nbsp;<img src="./images/java.png" width="40px"> &nbsp;<img src="./images/html.png" width="40px"> &nbsp;<img src="./images/javascript.png" width="40px">  
 
 **Tools:** 
 <img src="./images/clion.jpeg" width="40px"> &nbsp;<img src="./images/idea.jpeg" width="40px"> &nbsp;<img src="./images/pycharm.jpeg" width="40px"> &nbsp;<img src="./images/visualstudiocode.jpeg" width="40px"> &nbsp;<img src="./images/datagrip.jpeg" width="40px"> &nbsp;<img src="./images/anaconda.jpeg" width="40px"> &nbsp;<img src="./images/postman.jpeg" width="40px"> &nbsp;<img src="./images/kile5.png" width="40px"> &nbsp;</p>
