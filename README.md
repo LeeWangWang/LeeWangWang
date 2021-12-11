@@ -40,7 +40,7 @@ I am a graduate student from China
   </a>
   &emsp;
   <a href="https://space.bilibili.com/358615147" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="./images/bilibili.png" width="30px"/>
+    <img src="./images/bilibili.jpeg" width="30px"/>
   </a> 
   &emsp;
   <a href= "https://www.instagram.com/liwang1224/" alt="Instagram" title="Instagram">
@@ -57,6 +57,32 @@ I am a graduate student from China
 </p>
 
 **Languages and Tools:**
+<p>
+<img src="./images/c&c++.png" width="30px">
+
+<img src="./images/java.png" width="30px">
+
+<img src="./images/html.png" width="30px">
+
+<img src="./images/javascript.png" width="30px">
+&nbsp; | &nbsp;
+<img src="./images/clion.jpeg" width="30px">
+
+<img src="./images/idea.jpeg" width="30px">
+
+<img src="./images/pycharm.jpeg" width="30px">
+
+<img src="./images/visualstudiocode.jpeg" width="30px">
+
+<img src="./images/datagrip.jpeg" width="30px">
+
+<img src="./images/anaconda.jpeg" width="30px">
+
+<img src="./images/postman.jpeg" width="30px">
+
+<img src="./images/kile5.png" width="30px">
+
+</p>
 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeWangWang&show_icons=true&theme=radical)](https://github.com/LeeWangWang/LeeWangWang) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeWangWang&show_icons=true&theme=highcontrast)](https://github.com/LeeWangWang/LeeWangWang) | 
 | ------------- | ------------- |
