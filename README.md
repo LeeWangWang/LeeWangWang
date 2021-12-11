@@ -28,36 +28,36 @@ I am a graduate student from China
 
 <p align="left">
   <a href= "" target="_blank" alt="WeChat" title="WeChat">
-    <img src="./images/wechat.jpg" width="30px"/>
+    <img src="./images/wechat.jpg" width="40px"/>
   </a>
   &emsp;
   <a href="https://blog.csdn.net/weixin_42562514" target="_blank" alt="CSDN" title="CSDN">
-    <img src="./images/csdn.png" width="30px"/>
+    <img src="./images/csdn.png" width="40px"/>
   </a>
   &emsp;
   <a href="https://www.zhihu.com/people/ai-xue-xi-de-wang-85" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="./images/zhihu.png" width="30px"/>
+    <img src="./images/zhihu.png" width="40px"/>
   </a>
   &emsp;
   <a href="https://space.bilibili.com/358615147" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="./images/bilibili.jpeg" width="30px"/>
+    <img src="./images/bilibili.jpeg" width="40px"/>
   </a> 
   &emsp;
   <a href= "https://www.instagram.com/liwang1224/" alt="Instagram" title="Instagram">
-    <img src="./images/instagram.jpg" width="28px"/>
+    <img src="./images/instagram.jpg" width="40px"/>
   </a>
   &emsp;
   <a href="https://www.youtube.com/channel/UCMXXUcTxS4xA8GCnYu8u0dA" target="_blank" alt="YouTube" title="YouTube">
-    <img src="./images/youtube.png" width="30px"/>
+    <img src="./images/youtube.png" width="40px"/>
   </a>
   &emsp;
   <a href="https://www.linkedin.com/in/%E6%97%BA%E6%97%BA-%E6%9D%8E-044a6b1b1/" alt="LinkedIn" title="LinkedIn">
-    <img src="./images/linkedin.jpg" width="30px"/>
+    <img src="./images/linkedin.jpg" width="40px"/>
   </a>
 </p>
 
 **Languages and Tools:**
-<p><img src="./images/c&c++.png" width="30px"> &nbsp;<img src="./images/java.png" width="30px"> &nbsp;<img src="./images/html.png" width="30px"> &nbsp;<img src="./images/javascript.png" width="30px">&nbsp; | &nbsp;<img src="./images/clion.jpeg" width="30px"> &nbsp;<img src="./images/idea.jpeg" width="30px"> &nbsp;<img src="./images/pycharm.jpeg" width="30px"> &nbsp;<img src="./images/visualstudiocode.jpeg" width="30px"> &nbsp;<img src="./images/datagrip.jpeg" width="30px"> &nbsp;<img src="./images/anaconda.jpeg" width="30px"> &nbsp;<img src="./images/postman.jpeg" width="30px"> &nbsp;<img src="./images/kile5.png" width="30px"> &nbsp;</p>
+<p><img src="./images/c&c++.png" width="40px"> &nbsp;<img src="./images/java.png" width="40px"> &nbsp;<img src="./images/html.png" width="40px"> &nbsp;<img src="./images/javascript.png" width="40px">&nbsp; <hr size=100 width="1" color="#999999"> &nbsp;<img src="./images/clion.jpeg" width="40px"> &nbsp;<img src="./images/idea.jpeg" width="40px"> &nbsp;<img src="./images/pycharm.jpeg" width="40px"> &nbsp;<img src="./images/visualstudiocode.jpeg" width="40px"> &nbsp;<img src="./images/datagrip.jpeg" width="40px"> &nbsp;<img src="./images/anaconda.jpeg" width="40px"> &nbsp;<img src="./images/postman.jpeg" width="40px"> &nbsp;<img src="./images/kile5.png" width="40px"> &nbsp;</p>
 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeWangWang&show_icons=true&theme=radical)](https://github.com/LeeWangWang/LeeWangWang) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeWangWang&show_icons=true&theme=highcontrast)](https://github.com/LeeWangWang/LeeWangWang) | 
 | ------------- | ------------- |
