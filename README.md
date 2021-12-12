@@ -15,14 +15,12 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://github.com/LeeWangWang"><img width="60%" src="./images/mylogo.png" /></a></p>
 
-I am a graduate student from China
+<center><h3>I am from China，seeking graduate degree</h3></center>
 
 **about me:**
 - 🏫 &nbsp; I'm [LeeWangWang](https://github.com/LeeWangWang), pursing Master from <a href="https://www.dlmu.edu.cn/">@DMU  </a>
 - 🔭 &nbsp;  I’m currently working on  **DMU software Engineering Institute**
 - 🌱 &nbsp; I’m currently Working with **Anomaly Log Detective**
-- 💬 &nbsp; Ask me about anything, I am happy to help
-- 💡 &nbsp;Occasionaly I do practice in **LeetCode**
 
 **🌐 &nbsp; Know more about me at :**
 
