@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://github.com/LeeWangWang"><img width="60%" src="./images/mylogo.png" /></a></p>
 
-<center><h3>I am from China，seeking graduate degree</h3></center>
+### I am from China，seeking graduate degree
 
 - 🏫 &nbsp; I'm [LeeWangWang](https://github.com/LeeWangWang), pursing Master from <a href="https://www.dlmu.edu.cn/">@DMU  </a>
 - 🔭 &nbsp;  I’m currently working on  **DMU software Engineering Institute**
 - 🌱 &nbsp; I’m currently Working with **Anomaly Log Detective**
 
-**🌐 &nbsp; Know more about me at :**
+### Know more about me at :
 
 <p align="left">
   <a href= "" target="_blank" alt="WeChat" title="WeChat">
@@ -53,11 +53,11 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-**Languages:**
+### Languages :
 
 <p><img src="./images/c&c++.png" width="40px"> &nbsp; &nbsp;<img src="./images/java.png" width="40px"> &nbsp; &nbsp;<img src="./images/html.png" width="40px"> &nbsp; &nbsp;<img src="./images/javascript.png" width="40px">  
 
-**Tools:**
+### Tools :
 
 <img src="./images/clion.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/idea.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/pycharm.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/visualstudiocode.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/datagrip.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/anaconda.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/postman.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/kile5.png" width="40px"> &nbsp;</p>
 
