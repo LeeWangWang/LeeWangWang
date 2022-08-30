@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I am from China，seeking graduate degree
 
-- 🏫 &nbsp; I'm [LeeWangWang](https://github.com/LeeWangWang), pursing Master from <a href="https://www.dlmu.edu.cn/">@DMU  </a>
+- 🏫 &nbsp; I'm [LeeWangWang](https://leewangwang.github.io/), pursing Master from <a href="https://www.dlmu.edu.cn/">@DMU  </a>
 - 🔭 &nbsp;  I’m currently working on  **DMU software Engineering Institute**
 - 🌱 &nbsp; I’m currently Working with **Anomaly Log Detective**
 
