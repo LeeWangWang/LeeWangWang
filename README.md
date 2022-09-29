@@ -27,9 +27,6 @@ Here are some ideas to get you started:
 
 <img src="./images/clion.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/idea.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/pycharm.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/visualstudiocode.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/datagrip.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/anaconda.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/postman.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/kile5.png" width="40px"> &nbsp;</p>
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeWangWang&show_icons=true&theme=radical)](https://github.com/LeeWangWang/LeeWangWang) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeWangWang&show_icons=true&theme=highcontrast)](https://github.com/LeeWangWang/LeeWangWang) | 
-| ------------- | ------------- |
+### Project :
 
-
- | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeWangWang&show_icons=true&theme=highcontrast)](https://github.com/LeeWangWang/LeeWangWang) | 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeWangWang&show_icons=true&theme=highcontrast)](https://github.com/LeeWangWang/LeeWangWang) 
