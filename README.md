@@ -19,14 +19,3 @@ Here are some ideas to get you started:
 - 🔭 &nbsp;  I’m currently working on  **DMU software Engineering Institute**
 - 🌱 &nbsp; I’m currently Working with **Anomaly Log Detective**
 
-### Languages :
-
-<p><img src="./images/c&c++.png" width="40px"> &nbsp; &nbsp;<img src="./images/java.png" width="40px"> &nbsp; &nbsp;<img src="./images/html.png" width="40px"> &nbsp; &nbsp;<img src="./images/javascript.png" width="40px">  
-
-### Tools :
-
-<img src="./images/clion.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/idea.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/pycharm.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/visualstudiocode.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/datagrip.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/anaconda.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/postman.jpeg" width="40px"> &nbsp; &nbsp;<img src="./images/kile5.png" width="40px"> &nbsp;</p>
-
-### Project :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeWangWang&show_icons=true&theme=highcontrast)](https://github.com/LeeWangWang/LeeWangWang) 
